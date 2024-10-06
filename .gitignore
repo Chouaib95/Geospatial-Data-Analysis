@@ -1,0 +1,11 @@
+# Ignorer tous les fichiers .mxd
+*.mxd
+
+# Ignorer les dossiers spécifiques
+DEM _ modèle numérique d'élévation/
+Image issue du Satellite Sentinel-2/
+Land surface Temperature with Landsat8/
+Processed Raster Satellite img 3 bands with ArcGis/
+
+# Ignorer le sous-dossier spécifique
+202303_OSM2IGEO_MAROC_SHP_WGS84_4326/
