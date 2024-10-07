@@ -1,8 +1,8 @@
 # Documentation
 
-It is the GitHub repo for the Udemy course: [Geospatial data analysis with python](https://www.udemy.com/course/geospatial-data-analysis-with-python/?referralCode=5B58238C5392672D17B7)
 
-## Course Outline
+
+## Outline
 
 ### 1. Vector data analysis with geopandas and shaply
 Geopandas, built on Python, is a powerful library for working with geospatial data. It leverages the capabilities of Pandas for data manipulation and couples it with tools from Shapely and other libraries to handle geometric objects. Geopandas enables efficient handling of geospatial datasets, allowing users to read, write, analyze, and visualize various spatial formats like shapefiles, GeoJSON, and more. It offers functionalities such as spatial joins, overlays, geometric operations, and map plotting, making it a go-to choice for tasks involving geographic data analysis, manipulation, and visualization within a familiar Pandas framework.
